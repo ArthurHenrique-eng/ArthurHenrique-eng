@@ -34,9 +34,14 @@
 
 ---
 
-## Estatísticas
-
+Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurHenrique-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHenrique-eng&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  Obrigado por visitar o meu perfil! 😄 Fique à vontade para explorar meus repositórios e entrar em contato.
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ArthurHenrique-eng&color=blue&style=flat-square&label=Visitantes" />
 </p>
