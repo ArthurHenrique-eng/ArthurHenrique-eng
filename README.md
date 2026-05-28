@@ -36,7 +36,7 @@
 
 Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurHenrique-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=ArthurHenrique-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github.com/PROJETO-SENAC-MINAS/EQUILIBRAMENTE_INTERFACE)" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHenrique-eng&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
