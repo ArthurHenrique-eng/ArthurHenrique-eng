@@ -1,15 +1,15 @@
 <h1 align="center">
-  👨🏻‍💻 Arthur Henrique de Paula Barbosa
+  ARTHUR HENRIQUE DE PAULA BARBOSA
 </h1>
 
 <p align="center">
-  <code>Desenvolvedor | Engenheiro de Software</code>
+  <code>Desenvolvedor de Software | Engenheiro de Software</code>
 </p>
 
 <p align="center">
   Me chamo Arthur Henrique de Paula Barbosa, tenho 18 anos e sou de Minas Gerais.
   Gosto muito da área de tecnologia e desenvolvimento de software, estou sempre em busca de aprender novas ferramentas
-  e construir soluções que fazem a diferença. Atualmente focado em desenvolvimento web e back-end,
+  e construir soluções que fazem a diferença. Atualmente focado em ser um desenvolvedor full-stack,
   explorando projetos que unem criatividade e lógica.
   <br/><br/>
   <a href="https://www.linkedin.com/in/arthur-barbosa-38564b371/">
@@ -19,7 +19,7 @@
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 Estatísticas
+## Minhas Estatísticas
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurHenrique-eng&theme=tokyonight" />
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  Obrigado por visitar o meu perfil! 😄 Fique à vontade para explorar meus repositórios e entrar em contato.
+  Obrigado por visitar o meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato.
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=ArthurHenrique-eng&color=0077B5&style=flat-square&label=Visitantes" />
 </p>
