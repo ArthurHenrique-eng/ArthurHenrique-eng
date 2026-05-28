@@ -1,5 +1,5 @@
 <h1 align="center">
-  Arthur Henrique de Paula Barbosa
+  👨🏻‍💻 Arthur Henrique de Paula Barbosa
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   Me chamo Arthur Henrique de Paula Barbosa, tenho 18 anos e sou de Minas Gerais.
-  Gosto muito da aréa tecnologia e desenvolvimento de software, estou sempre em busca de aprender novas ferramentas
+  Gosto muito da área de tecnologia e desenvolvimento de software, estou sempre em busca de aprender novas ferramentas
   e construir soluções que fazem a diferença. Atualmente focado em desenvolvimento web e back-end,
   explorando projetos que unem criatividade e lógica.
   <br/><br/>
@@ -19,7 +19,7 @@
 
 ---
 
-## Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,8 +34,21 @@
 
 ---
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurHenrique-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHenrique-eng&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArthurHenrique-eng&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</p>
+
+---
+
 <p align="center">
   Obrigado por visitar o meu perfil! 😄 Fique à vontade para explorar meus repositórios e entrar em contato.
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=ArthurHenrique-eng&color=blue&style=flat-square&label=Visitantes" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ArthurHenrique-eng&color=0077B5&style=flat-square&label=Visitantes" />
 </p>
