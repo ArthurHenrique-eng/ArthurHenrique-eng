@@ -1,14 +1,14 @@
 <h1 align="center">
-  👨🏻‍💻 Arthur Henrique de Paula Barbosa
+  Arthur Henrique de Paula Barbosa
 </h1>
 
 <p align="center">
-  <code>Desenvolvedor</code>
+  <code>Desenvolvedor | Engenheiro de Software</code>
 </p>
 
 <p align="center">
-  Me chamo Arthur Henrique de Paula Barbosa, tenho 18 anos e sou natural de Minas Gerais.
-  Apaixonado por tecnologia e desenvolvimento de software, estou sempre em busca de aprender novas ferramentas
+  Me chamo Arthur Henrique de Paula Barbosa, tenho 18 anos e sou de Minas Gerais.
+  Gosto muito da aréa tecnologia e desenvolvimento de software, estou sempre em busca de aprender novas ferramentas
   e construir soluções que fazem a diferença. Atualmente focado em desenvolvimento web e back-end,
   explorando projetos que unem criatividade e lógica.
   <br/><br/>
@@ -19,7 +19,7 @@
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
