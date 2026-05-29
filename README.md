@@ -22,7 +22,7 @@
 
 ---
 
-<h1 align="center"> Linguagens e Tecnologias </h1>
+<h3 align="center"> Linguagens e Tecnologias </h1>
 
 <p align="center">
   <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
@@ -44,7 +44,7 @@
 
 ---
 
-## Minhas Estatísticas
+<h3 align="center"> Minhas Estatísticas </h1>
 
 <p align="center">
   <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
