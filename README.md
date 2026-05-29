@@ -7,13 +7,16 @@
 </p>
 
 <p align="center">
-  Me chamo Arthur Henrique de Paula Barbosa, tenho 18 anos e sou de Minas Gerais.
-  Gosto muito da área de tecnologia e desenvolvimento de software, estou sempre em busca de aprender novas ferramentas
-  e construir soluções que fazem a diferença. Atualmente focado em ser um desenvolvedor full-stack,
-  explorando projetos que unem criatividade e lógica.
+  Me chamo Arthur Henrique de Paula Barbosa, tenho 18 anos e sou natural de Minas Gerais. Tenho sólido interesse pela área de tecnologia e de software, buscando constantemente aprimorar minhas habilidades e me manter atualizado com as tendências do setor. Meu foco atual é na formação como desenvolvedor Full Stack, atuando em projetos que integram raciocínio lógico, boas práticas de desenvolvimento e soluções com impacto real. Acredito que código bem escrito vai além da técnica — ele resolve problemas e gera valor.
   <br/><br/>
   <a href="https://www.linkedin.com/in/arthur-barbosa-38564b371/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ArthurHenrique-eng">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="arthurhpb7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -56,3 +59,12 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=ArthurHenrique-eng&color=0077B5&style=flat-square&label=Visitantes" />
 </p>
+
+## Contato
+ 
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+ 
+</div>
