@@ -22,7 +22,7 @@
 
 ---
 
-## Linguagens e Tecnologias
+<h1 align="center"> Linguagens e Tecnologias </h1>
 
 <p align="center">
   <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
