@@ -65,8 +65,9 @@
 ---
 
 <p align="center">
+  <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
   Obrigado por visitar o meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato.
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ArthurHenrique-eng&color=0077B5&style=flat-square&label=Visitantes" />
   <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
+  <img src="https://komarev.com/ghpvc/?username=ArthurHenrique-eng&color=0077B5&style=flat-square&label=Visitantes" />
 </p>
