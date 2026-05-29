@@ -24,7 +24,7 @@
 
 ## Linguagens e Tecnologias
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
