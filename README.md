@@ -39,15 +39,18 @@
 ## Minhas Estatísticas
 
 <p align="center">
+  <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurHenrique-eng&theme=tokyonight" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurHenrique-eng&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurHenrique-eng&theme=tokyonight" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
   <img src="https://streak-stats.demolab.com?user=ArthurHenrique-eng&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
