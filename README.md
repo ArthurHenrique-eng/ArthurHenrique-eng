@@ -62,11 +62,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurHenrique-eng&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
-  <img src="https://streak-stats.demolab.com?user=ArthurHenrique-eng&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</p>
-
 ---
 
 <p align="center">
@@ -75,16 +70,4 @@
   <br/><br/>
   <a href="https://github.com/ArthurHenrique-eng?tab=repositories">
   <img src="https://komarev.com/ghpvc/?username=ArthurHenrique-eng&color=0077B5&style=flat-square&label=Visitantes" />
-</p>
-
-
-
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurHenrique-eng&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHenrique-eng&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurHenrique-eng&theme=tokyonight&hide_border=true"/>
 </p>
