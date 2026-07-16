@@ -48,26 +48,3 @@
 </p>
 
 ---
-
-<h3 align="center"> Minhas Estatísticas </h1>
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ArthurHenrique-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHenrique-eng&layout=compact&theme=tokyonight"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ArthurHenrique-eng&theme=tokyonight"
-  />
-</p>
-
----
-
-arrume para mim esta bugado as estastisticas
