@@ -1,6 +1,6 @@
-<h1 align="center">ARTHUR HENRIQUE DE PAULA BARBOSA</h1>
+<h1 align="center"> ARTHUR HENRIQUE DE PAULA BARBOSA </h1>
 
-<h3 align="center"> Sobre mim </h3> <p align="center"> Estudante de Engenharia de Software, natural de Minas Gerais, com foco no desenvolvimento Full Stack. Atuo na construção de soluções que unem lógica, boas práticas e usabilidade, trabalhando com APIs em Python/Flask, aplicações desktop em C# e interfaces web com HTML, CSS e JavaScript. Tenho interesse contínuo por aprendizado técnico e busco aplicar esse conhecimento em projetos com impacto real, sempre alinhado às tendências do mercado de tecnologia. </p>
+<h10> Estudante de Engenharia de Software com foco em desenvolvimento Full Stack. Possuo experiência no desenvolvimento de aplicações web e desktop utilizando Python, C#, JavaScript, HTML, CSS e SQL. Busco desenvolver soluções escaláveis, aplicando boas práticas de engenharia de software, arquitetura e desenvolvimento de sistemas. </h10>
 
 ---
 
